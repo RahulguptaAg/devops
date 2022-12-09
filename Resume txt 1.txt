@@ -1,0 +1,30 @@
+Azure Services - Iaas, VM deploy,create modify delete, VNET,Storage,Monitoring & configration Azure Networking(VNets, NSG...), Firewalls and Traffic
+
+Cloud Strategy- Azure Backup,Azure Site Recovery,IAM
+Cloud Transformation - Azure Migrate 
+other -understanding of Azure networking,Azure AD,ServiceNow, AutoCAD, AMS
+
+
+
+
+1) Experience with the implementation of Azure cloud solutions in an enterprise
+
+Experience deployment efforts related to Azure IaaS/PaaS
+Good knowledge of securing IAAS/PaaS services
+Hands-on Experience in Azure Networking(VNets, NSG...), Firewalls and Traffic
+
+
+
+
+
+
+>Experience in hybrid multi-cloud environment - both IaaS and PaaS.
+>Solid understanding of cloud networking concepts.
+>Excellent communication / strong interpersonal skills.
+>Experience working with Azure DevOps or similar tools for tracking, developing, deploying software.
+>Smart and prefer to have others fork your git repos (versus forking some open-source project to show commit counts) - in other words exhibit good coding habits and skills.
+>Experience scripting in Python, Bash. Declarative IaC languages such as Cloudformation, Terraform, Cloud-init, and Ansible
+>Focus on integrity with an eye for automation to the nth degree.
+>Beginner to Intermediate level Cloud systems administration certifications.
+
+
